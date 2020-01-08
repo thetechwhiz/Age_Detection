@@ -7,6 +7,7 @@ Problem Statement : Classifying faces of Indian film actors/actresses according 
 Main libraries used: Keras, sklearn, scipy etc
 
 Experimented with,
+
 1)Deep CNN's with Data Augmentation,Dropout,BatchNormalization
   -Used advanced activation layers like LeakyRelu
 
